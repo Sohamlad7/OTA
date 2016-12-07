@@ -2,42 +2,109 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <nicki>
-            <Filename>ResurrectionRemix-M-v5.6.5-20160324-nicki.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161201-nicki.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix nicki builds">http://bit.ly/1S8Pw9p</RomUrl>
+                description="Download ResurrectionRemix nicki builds">http://bit.ly/2giWK2b</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</nicki>
 	<taoshan>
-            <Filename>ResurrectionRemix-M-v5.6.4-20160228-taoshan.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161126-taoshan.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix taoshan builds">http://bit.ly/1OFwoh1</RomUrl>
+                description="Download Resurrection Remix taoshan builds">https://www.androidfilehost.com/?fid=457095661767119134</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</taoshan>
+	<honami>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161206-honami.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Resurrection Remix honami builds">https://www.androidfilehost.com/?fid=313042859668277224</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</honami>
+	<huashan>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161203-huashan.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Resurrection Remix huashan builds">http://bit.ly/2gB3NRk</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</huashan>
+	<hayabusa>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161201-hayabusa.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Resurrection Remix hayabusa builds">http://bit.ly/2g9iiep</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</hayabusa>
+	<mint>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161201-mint.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Resurrection Remix mint builds">http://bit.ly/2gRniYZ</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</mint>
+	<tsubasa>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161201-tsubasa.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download Resurrection Remix tsubasa builds">http://bit.ly/2h56ezd</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Resurrection Remix Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+	</tsubasa>
     </Stable>
 </SlimOTA>
