@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <nicki>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161201-nicki.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161212-nicki.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix nicki builds">http://bit.ly/2giWK2b</RomUrl>
+                description="Download ResurrectionRemix nicki builds">http://bit.ly/2hyiTbf</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -32,11 +32,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</taoshan>
 	<honami>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161206-honami.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161213-honami.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix honami builds">https://www.androidfilehost.com/?fid=313042859668277224</RomUrl>
+                description="Download Resurrection Remix honami builds">https://www.androidfilehost.com/?fid=529152257862688267</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -47,11 +47,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</honami>
 	<huashan>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161203-huashan.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161211-huashan.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix huashan builds">http://bit.ly/2gB3NRk</RomUrl>
+                description="Download Resurrection Remix huashan builds">http://bit.ly/2hyjsC5</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -62,11 +62,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</huashan>
 	<hayabusa>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161201-hayabusa.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161212-hayabusa.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix hayabusa builds">http://bit.ly/2g9iiep</RomUrl>
+                description="Download Resurrection Remix hayabusa builds">http://bit.ly/2hHGJES</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -77,11 +77,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</hayabusa>
 	<mint>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161201-mint.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161212-mint.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix mint builds">http://bit.ly/2gRniYZ</RomUrl>
+                description="Download Resurrection Remix mint builds">http://bit.ly/2hnwIvB</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -92,11 +92,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</mint>
 	<tsubasa>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161201-tsubasa.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161212-tsubasa.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix tsubasa builds">http://bit.ly/2h56ezd</RomUrl>
+                description="Download Resurrection Remix tsubasa builds">http://bit.ly/2hyCLeH</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
