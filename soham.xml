@@ -17,11 +17,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</nicki>
 	<taoshan>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161126-taoshan.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161217-taoshan.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix taoshan builds">https://www.androidfilehost.com/?fid=457095661767119134</RomUrl>
+                description="Download Resurrection Remix taoshan builds">https://www.androidfilehost.com/?fid=457095661767123309</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
