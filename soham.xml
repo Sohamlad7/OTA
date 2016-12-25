@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <nicki>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-nicki.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161225-nicki-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix nicki builds">http://bit.ly/2hyiTbf</RomUrl>
+                description="Download ResurrectionRemix nicki builds">http://bit.ly/2hWHRnA</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -47,11 +47,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</honami>
 	<huashan>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161211-huashan.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161224-huashan-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix huashan builds">http://bit.ly/2hyjsC5</RomUrl>
+                description="Download Resurrection Remix huashan builds">http://bit.ly/2hWvTdr</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -62,11 +62,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</huashan>
 	<hayabusa>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-hayabusa.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161225-hayabusa-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix hayabusa builds">http://bit.ly/2hHGJES</RomUrl>
+                description="Download Resurrection Remix hayabusa builds">http://bit.ly/2hl1KUi</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -77,11 +77,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</hayabusa>
 	<mint>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-mint.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161225-mint-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix mint builds">http://bit.ly/2hnwIvB</RomUrl>
+                description="Download Resurrection Remix mint builds">http://bit.ly/2hl6OrS</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -92,11 +92,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</mint>
 	<tsubasa>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161212-tsubasa.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161225-tsubasa-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix tsubasa builds">http://bit.ly/2hyCLeH</RomUrl>
+                description="Download Resurrection Remix tsubasa builds">http://bit.ly/2hWNou3</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
