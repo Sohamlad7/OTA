@@ -32,11 +32,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 	</taoshan>
 	<honami>
-            <Filename>RR-N-v5.8.0-20161226-honami-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170216-honami-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Resurrection Remix honami builds">https://www.androidfilehost.com/?fid=745425885120695840</RomUrl>
+                description="Download Resurrection Remix honami builds">https://www.androidfilehost.com/?fid=745425885120708622</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
